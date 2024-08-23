@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME       : AFSAR JUMAIL S</H3>
-<H3>ENTER YOUR REGISTER NO: 212222240004</H3>
+<H3>NAME       : AFSAR JUMAIL S</H3>
+<H3>REGISTER NO: 212222240004</H3>
 <H3>EX.NO:1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -79,23 +79,23 @@ print("Lenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Dataset:
-![images](./images/data.png)
+![image](https://github.com/user-attachments/assets/cf64da8e-2212-4fec-8fc1-c534870ede38)
 ### X Values:
-![images](./images/x_values.png)
+![image](https://github.com/user-attachments/assets/dfed917d-1c86-4adc-a569-afb5b5aaf6b8)
 ### Y Values:
-![images](./images/y_values.png)
+![image](https://github.com/user-attachments/assets/574d57e6-c08b-4163-8e46-2593f17790d8)
 ### Null Values:
-![images](./images/null_values.png)
+![image](https://github.com/user-attachments/assets/34969999-611c-499a-b7e9-93463c8c00ba)
 ### Duplicated Values:
-![images](./images/duplicated_values.png)
+![image](https://github.com/user-attachments/assets/064e9f31-c10e-48fa-a3c0-4b96501dcd82)
 ### Description:
-![images](./images/describe.png)
+![image](https://github.com/user-attachments/assets/787522e4-397a-44c3-9267-f1d3ee43f0f5)
 ### Normalized Dataset:
-![](./images/normalized.png)
+![image](https://github.com/user-attachments/assets/538f8671-ce09-4103-a8c7-4ab6536fba44)
 ### Training Data:
-![](./images/training%20.png)
+![image](https://github.com/user-attachments/assets/712e9ce1-ec8b-4e3f-bc7c-b0909c17fd63)
 ### Testing Data:
-![](./images/test.png)
+![image](https://github.com/user-attachments/assets/7e0016ce-e25a-4989-95c9-54738ba29ea3)
 
 
 ## RESULT:
